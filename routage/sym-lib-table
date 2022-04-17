@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "CmpAmpliAudioTR")(type "Legacy")(uri "${KIPRJMOD}/CmpAmpliAudioTR.pretty/CmpAmpliAudioTR.lib")(options "6")(descr ""))
+)

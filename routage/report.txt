@@ -1,0 +1,461 @@
+Info: Processing symbol 'C1:Capacitor_THT:CP_Radial_D8.0mm_P5.00mm'.
+Info: Processing symbol 'Q1:Package_TO_SOT_THT:TO-18-3'.
+Info: Processing symbol 'C4:Capacitor_THT:CP_Radial_D8.0mm_P5.00mm'.
+Info: Processing symbol 'C7:Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2'.
+Info: Processing symbol 'Dz1:Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal'.
+Info: Processing symbol 'Q11:Package_TO_SOT_THT:TO-126-3_Vertical'.
+Info: Processing symbol 'C10:Capacitor_THT:CP_Radial_D12.5mm_P5.00mm'.
+Info: Processing symbol 'Q10:Package_TO_SOT_THT:TO-220-3_Vertical'.
+Info: Processing symbol 'HS2:Heatsink:Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm'.
+Info: Processing symbol 'Q4:Package_TO_SOT_THT:TO-18-3'.
+Info: Processing symbol 'C2:Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2'.
+Info: Processing symbol 'Q5:Package_TO_SOT_THT:TO-18-3'.
+Info: Processing symbol 'C5:Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2'.
+Info: Processing symbol 'C8:Capacitor_THT:CP_Radial_D12.5mm_P5.00mm'.
+Info: Processing symbol 'Q7:Package_TO_SOT_THT:TO-18-3'.
+Info: Processing symbol 'Q2:Package_TO_SOT_THT:TO-18-3'.
+Info: Processing symbol 'D2:Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal'.
+Info: Processing symbol 'C11:Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2'.
+Info: Processing symbol 'Q3:Package_TO_SOT_THT:TO-18-3'.
+Info: Processing symbol 'Q9:Package_TO_SOT_THT:TO-126-3_Vertical'.
+Info: Processing symbol 'C3:Capacitor_THT:CP_Radial_D8.0mm_P5.00mm'.
+Info: Processing symbol 'C6:Capacitor_THT:CP_Radial_D8.0mm_P5.00mm'.
+Info: Processing symbol 'HS1:Heatsink:Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm'.
+Info: Processing symbol 'C9:Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2'.
+Info: Processing symbol 'Q8:Package_TO_SOT_THT:TO-126-3_Vertical'.
+Info: Processing symbol 'J2:Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_2-G-5,08_1x02_P5.08mm_Vertical'.
+Info: Processing symbol 'J3:Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_3-G-5,08_1x03_P5.08mm_Vertical'.
+Info: Processing symbol 'Q6:Package_TO_SOT_THT:TO-18-3'.
+Info: Processing symbol 'D1:Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal'.
+Info: Processing symbol 'Q12:Package_TO_SOT_THT:TO-220-3_Vertical'.
+Info: Processing symbol 'Q13:Package_TO_SOT_THT:TO-18-3'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R3:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R4:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R5:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R6:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R7:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R8:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R9:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R10:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R11:Resistor_THT:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal'.
+Info: Processing symbol 'R12:Resistor_THT:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal'.
+Info: Processing symbol 'R13:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R14:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R15:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R16:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'RV1:CmpAmpliAudioTR:Potentiometer_Bourns_3296W_Vertical'.
+Info: Processing symbol 'RV2:CmpAmpliAudioTR:Potentiometer_Bourns_3296W_Vertical'.
+Info: Processing symbol 'U1:CmpAmpliAudioTR:Relais_112LMH2'.
+Info: Processing symbol 'U2:CmpAmpliAudioTR:Jack_35RAPC2AV'.
+Updated C3 properties.
+Add net Net-(C3-Pad1).
+Connected C3 pin 1 to Net-(C3-Pad1).
+Add net GND.
+Connected C3 pin 2 to GND.
+Added C4 (footprint 'Capacitor_THT:CP_Radial_D8.0mm_P5.00mm').
+Changed REF** reference designator to C4.
+Changed C4 value from CP_Radial_D8.0mm_P5.00mm to 10u.
+Updated C4 symbol association from  to /a3fa0b39-289a-424e-9d46-b87ed9e1607a.
+Updated C4 properties.
+Add net +12V.
+Connected C4 pin 1 to +12V.
+Connected C4 pin 2 to GND.
+Added C5 (footprint 'Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2').
+Changed REF** reference designator to C5.
+Changed C5 value from C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2 to 100n.
+Updated C5 symbol association from  to /8c3285eb-f259-480a-a130-ea6978e19403.
+Updated C5 properties.
+Connected C5 pin 1 to +12V.
+Connected C5 pin 2 to GND.
+Added C6 (footprint 'Capacitor_THT:CP_Radial_D8.0mm_P5.00mm').
+Changed REF** reference designator to C6.
+Changed C6 value from CP_Radial_D8.0mm_P5.00mm to 10u.
+Updated C6 symbol association from  to /87bc6d2c-8f34-4ae4-904e-601aea111b50.
+Updated C6 properties.
+Connected C6 pin 1 to GND.
+Add net -12V.
+Connected C6 pin 2 to -12V.
+Changed REF** reference designator to C7.
+Changed C7 value from C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2 to 100n.
+Updated C7 symbol association from  to /a5b88755-c919-4a9e-924f-a9c3ba2c9c9f.
+Updated C7 properties.
+Connected C7 pin 1 to GND.
+Connected C7 pin 2 to -12V.
+Added C8 (footprint 'Capacitor_THT:CP_Radial_D12.5mm_P5.00mm').
+Changed REF** reference designator to C8.
+Changed C8 value from CP_Radial_D12.5mm_P5.00mm to 470u.
+Updated C8 symbol association from  to /68a1b7de-c472-473e-909a-7beeb2c7f3ea.
+Updated C8 properties.
+Connected C8 pin 1 to +12V.
+Connected C8 pin 2 to GND.
+Added C9 (footprint 'Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2').
+Changed REF** reference designator to C9.
+Changed C9 value from C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2 to 100n.
+Updated C9 symbol association from  to /4ed08b07-9db0-4b8c-ab0a-e1980808c17f.
+Updated C9 properties.
+Connected C9 pin 1 to +12V.
+Connected C9 pin 2 to GND.
+Added C10 (footprint 'Capacitor_THT:CP_Radial_D12.5mm_P5.00mm').
+Changed REF** reference designator to C10.
+Changed C10 value from CP_Radial_D12.5mm_P5.00mm to 470u.
+Updated C10 symbol association from  to /d0cf5074-cbac-4fb4-9597-d5dd94716710.
+Updated C10 properties.
+Connected C10 pin 1 to GND.
+Connected C10 pin 2 to -12V.
+Added C11 (footprint 'Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2').
+Changed REF** reference designator to C11.
+Changed C11 value from C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2 to 100n.
+Updated C11 symbol association from  to /8526dc41-ba5e-4586-b24a-0d25de60c506.
+Updated C11 properties.
+Connected C11 pin 1 to GND.
+Connected C11 pin 2 to -12V.
+Added D1 (footprint 'Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal').
+Changed REF** reference designator to D1.
+Changed D1 value from D_DO-35_SOD27_P10.16mm_Horizontal to 1N4148.
+Updated D1 symbol association from  to /d9473661-8014-425b-bde3-c0ad8ebc9b26.
+Updated D1 properties.
+Connected D1 pin 1 to +12V.
+Add net Net-(D1-Pad2).
+Connected D1 pin 2 to Net-(D1-Pad2).
+Added D2 (footprint 'Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal').
+Changed REF** reference designator to D2.
+Changed D2 value from D_DO-35_SOD27_P10.16mm_Horizontal to D_Zener.
+Updated D2 symbol association from  to /e0de9977-39fb-4835-97fb-61efbdda69cb.
+Updated D2 properties.
+Connected D2 pin 1 to Net-(C3-Pad1).
+Add net Net-(D2-Pad2).
+Connected D2 pin 2 to Net-(D2-Pad2).
+Added C7 (footprint 'Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2').
+Added Dz1 (footprint 'Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal').
+Changed REF** reference designator to Dz1.
+Changed Dz1 value from D_DO-35_SOD27_P10.16mm_Horizontal to BZX55C5V1.
+Updated Dz1 symbol association from  to /a405cd96-01a1-4ec6-b63e-b71b92d7bb03.
+Updated Dz1 properties.
+Connected Dz1 pin 1 to +12V.
+Add net Net-(Dz1-Pad2).
+Connected Dz1 pin 2 to Net-(Dz1-Pad2).
+Added HS1 (footprint 'Heatsink:Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm').
+Changed REF** reference designator to HS1.
+Changed HS1 value from Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm to Heatsink.
+Updated HS1 symbol association from  to /318548b0-9c75-44ba-bd95-b0118e93df51.
+Updated HS1 properties.
+Added HS2 (footprint 'Heatsink:Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm').
+Changed REF** reference designator to HS2.
+Changed HS2 value from Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm to Heatsink.
+Updated HS2 symbol association from  to /fd051a28-3029-4171-a5e1-d2f785556d20.
+Updated HS2 properties.
+Added J2 (footprint 'Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_2-G-5,08_1x02_P5.08mm_Vertical').
+Changed REF** reference designator to J2.
+Changed J2 value from PhoenixContact_MSTBVA_2,5_2-G-5,08_1x02_P5.08mm_Vertical to Conn_01x02.
+Updated J2 symbol association from  to /77dece97-978e-4bc5-9c5c-a2613a4fbda8.
+Updated J2 properties.
+Add net Net-(J2-Pad1).
+Connected J2 pin 1 to Net-(J2-Pad1).
+Connected J2 pin 2 to GND.
+Added J3 (footprint 'Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_3-G-5,08_1x03_P5.08mm_Vertical').
+Changed REF** reference designator to J3.
+Changed J3 value from PhoenixContact_MSTBVA_2,5_3-G-5,08_1x03_P5.08mm_Vertical to Conn_01x03.
+Updated J3 symbol association from  to /b2349eb4-3bfa-4678-9e29-2061b3f53154.
+Updated J3 properties.
+Connected J3 pin 1 to -12V.
+Connected J3 pin 2 to GND.
+Connected J3 pin 3 to +12V.
+Added Q1 (footprint 'Package_TO_SOT_THT:TO-18-3').
+Changed REF** reference designator to Q1.
+Changed Q1 value from TO-18-3 to 2N2907.
+Updated Q1 symbol association from  to /bd5d3467-f9d7-4ab1-a3bb-e55f96a5e6f0.
+Updated Q1 properties.
+Add net Net-(Q1-Pad1).
+Connected Q1 pin 1 to Net-(Q1-Pad1).
+Connected Q1 pin 2 to Net-(C1-Pad1).
+Connected Q1 pin 3 to Net-(C2-Pad1).
+Added Q2 (footprint 'Package_TO_SOT_THT:TO-18-3').
+Changed REF** reference designator to Q2.
+Changed Q2 value from TO-18-3 to 2N2907.
+Updated Q2 symbol association from  to /365a9b07-981f-4b97-bb0b-3582625f681e.
+Updated Q2 properties.
+Connected Q2 pin 1 to Net-(Q1-Pad1).
+Add net Net-(Q2-Pad2).
+Connected Q2 pin 2 to Net-(Q2-Pad2).
+Add net Net-(Q2-Pad3).
+Connected Q2 pin 3 to Net-(Q2-Pad3).
+Added Q3 (footprint 'Package_TO_SOT_THT:TO-18-3').
+Changed REF** reference designator to Q3.
+Changed Q3 value from TO-18-3 to 2N2907.
+Updated Q3 symbol association from  to /8fb76ed7-a5e4-4519-927b-8d5d6c5ce691.
+Updated Q3 properties.
+Add net Net-(Q3-Pad1).
+Connected Q3 pin 1 to Net-(Q3-Pad1).
+Connected Q3 pin 2 to Net-(Dz1-Pad2).
+Connected Q3 pin 3 to Net-(Q1-Pad1).
+Added Q4 (footprint 'Package_TO_SOT_THT:TO-18-3').
+Changed REF** reference designator to Q4.
+Changed Q4 value from TO-18-3 to 2N2222.
+Updated Q4 symbol association from  to /ca4c1e1b-47c0-404d-b490-b8eb94837e92.
+Updated Q4 properties.
+Add net Net-(Q4-Pad1).
+Connected Q4 pin 1 to Net-(Q4-Pad1).
+Connected Q4 pin 2 to Net-(C2-Pad1).
+Connected Q4 pin 3 to Net-(C2-Pad2).
+Added Q5 (footprint 'Package_TO_SOT_THT:TO-18-3').
+Changed REF** reference designator to Q5.
+Changed Q5 value from TO-18-3 to 2N2222.
+Updated Q5 symbol association from  to /2d023eba-182c-4b30-b8e4-c40014ac23e7.
+Updated Q5 properties.
+Add net Net-(Q5-Pad1).
+Connected Q5 pin 1 to Net-(Q5-Pad1).
+Connected Q5 pin 2 to Net-(Q4-Pad1).
+Connected Q5 pin 3 to Net-(C2-Pad2).
+Added Q6 (footprint 'Package_TO_SOT_THT:TO-18-3').
+Changed REF** reference designator to Q6.
+Changed Q6 value from TO-18-3 to 2N2907.
+Updated Q6 symbol association from  to /f114fcbe-5fb4-4f17-8564-8e9df70bda78.
+Updated Q6 properties.
+Add net Net-(Q6-Pad1).
+Connected Q6 pin 1 to Net-(Q6-Pad1).
+Add net Net-(Q6-Pad2).
+Connected Q6 pin 2 to Net-(Q6-Pad2).
+Add net Net-(Q6-Pad3).
+Connected Q6 pin 3 to Net-(Q6-Pad3).
+Added Q7 (footprint 'Package_TO_SOT_THT:TO-18-3').
+Changed REF** reference designator to Q7.
+Changed Q7 value from TO-18-3 to 2N2907.
+Updated Q7 symbol association from  to /d18ee693-cf55-4bfe-92ae-91229baff016.
+Updated Q7 properties.
+Add net Net-(Q7-Pad1).
+Connected Q7 pin 1 to Net-(Q7-Pad1).
+Connected Q7 pin 2 to Net-(Q6-Pad2).
+Connected Q7 pin 3 to Net-(Q6-Pad2).
+Added Q8 (footprint 'Package_TO_SOT_THT:TO-126-3_Vertical').
+Changed REF** reference designator to Q8.
+Changed Q8 value from TO-126-3_Vertical to BD139.
+Updated Q8 symbol association from  to /16e0cb01-317c-4e81-8ff0-3c8916eae187.
+Updated Q8 properties.
+Connected Q8 pin 1 to Net-(Q6-Pad3).
+Connected Q8 pin 2 to Net-(C2-Pad2).
+Add net Net-(Q8-Pad3).
+Connected Q8 pin 3 to Net-(Q8-Pad3).
+Added Q9 (footprint 'Package_TO_SOT_THT:TO-126-3_Vertical').
+Changed REF** reference designator to Q9.
+Changed Q9 value from TO-126-3_Vertical to BD139.
+Updated Q9 symbol association from  to /f2a39f2f-d34c-4216-b5ae-8ee0bee406d3.
+Updated Q9 properties.
+Add net Net-(Q10-Pad2).
+Connected Q9 pin 1 to Net-(Q10-Pad2).
+Add net Net-(Q10-Pad1).
+Connected Q9 pin 2 to Net-(Q10-Pad1).
+Connected Q9 pin 3 to Net-(Q6-Pad3).
+Added Q10 (footprint 'Package_TO_SOT_THT:TO-220-3_Vertical').
+Changed REF** reference designator to Q10.
+Changed Q10 value from TO-220-3_Vertical to TIP32.
+Updated Q10 symbol association from  to /fad57d3d-e3b9-4e3c-bf60-4173ad045544.
+Updated Q10 properties.
+Connected Q10 pin 1 to Net-(Q10-Pad1).
+Connected Q10 pin 2 to Net-(Q10-Pad2).
+Connected Q10 pin 3 to +12V.
+Added Q11 (footprint 'Package_TO_SOT_THT:TO-126-3_Vertical').
+Changed REF** reference designator to Q11.
+Changed Q11 value from TO-126-3_Vertical to BD138.
+Updated Q11 symbol association from  to /cee31d16-7c56-4d31-aa8c-487818218749.
+Updated Q11 properties.
+Add net Net-(Q11-Pad1).
+Connected Q11 pin 1 to Net-(Q11-Pad1).
+Add net Net-(Q11-Pad2).
+Connected Q11 pin 2 to Net-(Q11-Pad2).
+Connected Q11 pin 3 to Net-(C2-Pad2).
+Added C1 (footprint 'Capacitor_THT:CP_Radial_D8.0mm_P5.00mm').
+Added Q12 (footprint 'Package_TO_SOT_THT:TO-220-3_Vertical').
+Changed REF** reference designator to Q12.
+Changed Q12 value from TO-220-3_Vertical to TIP31.
+Updated Q12 symbol association from  to /cad5566b-df37-44df-9fb0-a419f6a15afd.
+Updated Q12 properties.
+Connected Q12 pin 1 to Net-(Q11-Pad2).
+Connected Q12 pin 2 to Net-(Q11-Pad1).
+Connected Q12 pin 3 to -12V.
+Changed REF** reference designator to C1.
+Added Q13 (footprint 'Package_TO_SOT_THT:TO-18-3').
+Changed REF** reference designator to Q13.
+Changed Q13 value from TO-18-3 to 2N2222.
+Updated Q13 symbol association from  to /b6363faf-8c93-4421-97a0-4118ee8d6f68.
+Updated Q13 properties.
+Connected Q13 pin 1 to GND.
+Connected Q13 pin 2 to Net-(D2-Pad2).
+Connected Q13 pin 3 to Net-(D1-Pad2).
+Changed C1 value from CP_Radial_D8.0mm_P5.00mm to 47u.
+Added R1 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R1.
+Changed R1 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to R.
+Updated R1 symbol association from  to /6495c24b-23ea-4fc1-85b7-84c7d0ad77bd.
+Updated R1 properties.
+Connected R1 pin 1 to Net-(C1-Pad1).
+Connected R1 pin 2 to GND.
+Updated C1 symbol association from  to /22263dfc-5cb5-4d2a-93fe-5122b1cedcb5.
+Added R2 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R2.
+Changed R2 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to R.
+Updated R2 symbol association from  to /3af7dac4-9ac0-43dc-9d21-9974c67631ed.
+Updated R2 properties.
+Connected R2 pin 1 to Net-(C2-Pad1).
+Connected R2 pin 2 to -12V.
+Updated C1 properties.
+Added R3 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R3.
+Changed R3 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to R.
+Updated R3 symbol association from  to /cac9ebb1-d631-431e-854c-e55834eca2c5.
+Updated R3 properties.
+Connected R3 pin 1 to Net-(Q2-Pad3).
+Connected R3 pin 2 to -12V.
+Add net Net-(C1-Pad1).
+Added R4 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R4.
+Changed R4 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to R.
+Updated R4 symbol association from  to /bb4f0314-c44c-4dda-b85c-537120eaae9a.
+Updated R4 properties.
+Connected R4 pin 1 to +12V.
+Connected R4 pin 2 to Net-(Q3-Pad1).
+Connected C1 pin 1 to Net-(C1-Pad1).
+Added R5 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R5.
+Changed R5 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to R.
+Updated R5 symbol association from  to /825c70b0-4860-42b7-97dc-86bfa46e06fd.
+Updated R5 properties.
+Connected R5 pin 1 to Net-(Dz1-Pad2).
+Connected R5 pin 2 to GND.
+Add net Net-(C1-Pad2).
+Added R6 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R6.
+Changed R6 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to R.
+Updated R6 symbol association from  to /ac394660-84a8-4452-8967-5cdf1e8bf68c.
+Updated R6 properties.
+Connected R6 pin 1 to Net-(Q5-Pad1).
+Connected R6 pin 2 to -12V.
+Connected C1 pin 2 to Net-(C1-Pad2).
+Added R7 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R7.
+Changed R7 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to R.
+Updated R7 symbol association from  to /91f6a706-3108-4d2a-8850-f9673e5d2f23.
+Updated R7 properties.
+Connected R7 pin 1 to +12V.
+Connected R7 pin 2 to Net-(Q6-Pad1).
+Added C2 (footprint 'Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2').
+Added R8 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R8.
+Changed R8 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to R.
+Updated R8 symbol association from  to /44718e2b-1456-4e8d-9557-d3a714930d18.
+Updated R8 properties.
+Add net Net-(R8-Pad1).
+Connected R8 pin 1 to Net-(R8-Pad1).
+Connected R8 pin 2 to Net-(C2-Pad2).
+Changed REF** reference designator to C2.
+Added R9 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R9.
+Changed R9 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to R.
+Updated R9 symbol association from  to /7e1287b0-c8fc-446b-811b-75db346d5dcf.
+Updated R9 properties.
+Connected R9 pin 1 to +12V.
+Connected R9 pin 2 to Net-(Q7-Pad1).
+Changed C2 value from C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2 to C.
+Added R10 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R10.
+Changed R10 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to R.
+Updated R10 symbol association from  to /60695831-afc3-48e0-a759-6f819e35fd3b.
+Updated R10 properties.
+Connected R10 pin 1 to Net-(Q6-Pad2).
+Add net Net-(R10-Pad2).
+Connected R10 pin 2 to Net-(R10-Pad2).
+Updated C2 symbol association from  to /79f7aca4-ec33-4dc9-9c86-d1cd4c6f6d61.
+Added R11 (footprint 'Resistor_THT:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal').
+Changed REF** reference designator to R11.
+Changed R11 value from R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal to R.
+Updated R11 symbol association from  to /2a610aba-8346-4c4c-9dcf-fce909fb5087.
+Updated R11 properties.
+Connected R11 pin 1 to Net-(Q10-Pad2).
+Add net Net-(R11-Pad2).
+Connected R11 pin 2 to Net-(R11-Pad2).
+Updated C2 properties.
+Added R12 (footprint 'Resistor_THT:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal').
+Changed REF** reference designator to R12.
+Changed R12 value from R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal to R.
+Updated R12 symbol association from  to /b135a7b2-b19d-4ca6-9e4b-2ab8c1a157c9.
+Updated R12 properties.
+Connected R12 pin 1 to Net-(R11-Pad2).
+Connected R12 pin 2 to Net-(Q11-Pad1).
+Add net Net-(C2-Pad1).
+Added R13 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R13.
+Changed R13 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to R.
+Updated R13 symbol association from  to /c1ce056b-9bc0-493e-a7b9-890c632c298a.
+Updated R13 properties.
+Connected R13 pin 1 to Net-(R11-Pad2).
+Connected R13 pin 2 to GND.
+Connected C2 pin 1 to Net-(C2-Pad1).
+Added R14 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R14.
+Changed R14 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to R.
+Updated R14 symbol association from  to /e3541bed-c614-451a-95b4-0f696cfcbcb3.
+Updated R14 properties.
+Connected R14 pin 1 to Net-(Q2-Pad2).
+Connected R14 pin 2 to Net-(R11-Pad2).
+Add net Net-(C2-Pad2).
+Added R15 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R15.
+Changed R15 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to R.
+Updated R15 symbol association from  to /0be567db-b9d3-4875-bfab-0cb9478ab307.
+Updated R15 properties.
+Connected R15 pin 1 to Net-(Q2-Pad2).
+Connected R15 pin 2 to GND.
+Connected C2 pin 2 to Net-(C2-Pad2).
+Added R16 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R16.
+Changed R16 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to R.
+Updated R16 symbol association from  to /3702acb1-e695-4516-be5b-759185d5bb41.
+Updated R16 properties.
+Connected R16 pin 1 to +12V.
+Connected R16 pin 2 to Net-(C3-Pad1).
+Added C3 (footprint 'Capacitor_THT:CP_Radial_D8.0mm_P5.00mm').
+Added RV1 (footprint 'CmpAmpliAudioTR:Potentiometer_Bourns_3296W_Vertical').
+Changed REF** reference designator to RV1.
+Changed RV1 value from Potentiometer_Bourns_3296W_Vertical to R_POT.
+Updated RV1 symbol association from  to /63f7af8b-3f70-48ad-9bb8-8efcac267b2a.
+Updated RV1 properties.
+Connected RV1 pin 1 to Net-(Q6-Pad3).
+Connected RV1 pin 2 to Net-(Q8-Pad3).
+Connected RV1 pin 3 to Net-(R8-Pad1).
+Changed REF** reference designator to C3.
+Added RV2 (footprint 'CmpAmpliAudioTR:Potentiometer_Bourns_3296W_Vertical').
+Changed REF** reference designator to RV2.
+Changed RV2 value from Potentiometer_Bourns_3296W_Vertical to R_POT.
+Updated RV2 symbol association from  to /b761162b-da5b-44fd-9f1d-3766701331fd.
+Updated RV2 properties.
+Connected RV2 pin 1 to Net-(R10-Pad2).
+Connected RV2 pin 2 to Net-(R10-Pad2).
+Connected RV2 pin 3 to GND.
+Changed C3 value from CP_Radial_D8.0mm_P5.00mm to 100u.
+Added U1 (footprint 'CmpAmpliAudioTR:Relais_112LMH2').
+Changed REF** reference designator to U1.
+Changed U1 value from 35RAPC2AV to Relay_1CT.
+Updated U1 symbol association from  to /cd4c390f-36a9-4671-86ec-9a7fef52b7dc.
+Updated U1 properties.
+Connected U1 pin b1 to Net-(D1-Pad2).
+Connected U1 pin c1 to Net-(R11-Pad2).
+Connected U1 pin b2 to +12V.
+Connected U1 pin c2 to Net-(J2-Pad1).
+Updated C3 symbol association from  to /a1eccb39-cfd9-4e2f-9fda-08d11a637a3d.
+Added U2 (footprint 'CmpAmpliAudioTR:Jack_35RAPC2AV').
+Changed REF** reference designator to U2.
+Changed U2 value from Jack_35RAPC2AV to Jack_Mono.
+Updated U2 symbol association from  to /fa55ee81-aef6-47d2-bd5b-fa2ec87af7e0.
+Updated U2 properties.
+Add net unconnected-(U2-PadTN).
+Connected U2 pin TN to unconnected-(U2-PadTN).
+Connected U2 pin G to GND.
+Connected U2 pin T to Net-(C1-Pad2).
+Warning: No net found for symbol HS2 pin 1.
+Warning: No net found for symbol HS2 pin 1.
+Warning: No net found for symbol HS1 pin 1.
+Warning: No net found for symbol HS1 pin 1.
+
+
+Info: Total warnings: 0, errors: 0.
