@@ -127,7 +127,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp 0e548bec-f93a-477f-b1f0-f47fef391dcc)
-    (at 150.114 105.156)
+    (at 170.18 73.406 180)
     (descr "Resistor, Axial_DIN0516 series, Axial, Horizontal, pin pitch=20.32mm, 2W, length*diameter=15.5*5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0516 series Axial Horizontal pin pitch 20.32mm 2W length 15.5mm diameter 5mm")
     (property "Sheetfile" "routage.kicad_sch")
@@ -162,9 +162,9 @@
     (fp_line (start 17.91 2.5) (end 17.91 -2.5) (layer "F.Fab") (width 0.1) (tstamp a0624559-18fb-4a68-9c69-12306fb3bcb5))
     (fp_line (start 2.41 -2.5) (end 2.41 2.5) (layer "F.Fab") (width 0.1) (tstamp ad61b9d2-1bd4-405f-83ec-35ddef9c942d))
     (fp_line (start 2.41 2.5) (end 17.91 2.5) (layer "F.Fab") (width 0.1) (tstamp e7ac20a0-6d3f-43ce-846e-2fbf3d0f2e6f))
-    (pad "1" thru_hole circle (at 0 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask)
+    (pad "1" thru_hole circle (at 0 0 180) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask)
       (net 30 "Net-(R11-Pad2)") (pintype "passive") (tstamp 61265fa4-a798-4bd9-8dca-302882cd4adf))
-    (pad "2" thru_hole oval (at 20.32 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask)
+    (pad "2" thru_hole oval (at 20.32 0 180) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask)
       (net 26 "Net-(Q11-Pad1)") (pintype "passive") (tstamp 33bfab32-396a-4d25-9244-6d3038c73fa9))
     (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal.wrl"
       (offset (xyz 0 0 0))
@@ -175,7 +175,7 @@
 
   (footprint "Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" (layer "F.Cu")
     (tedit 5AE50EF0) (tstamp 10636e3c-fe4b-48c8-8612-84484078973b)
-    (at 177.8 64.81 -90)
+    (at 179.832 70.652 -90)
     (descr "C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*3.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf")
     (tags "C Rect series Radial pin pitch 5.00mm  length 7.2mm width 3.5mm Capacitor")
     (property "Sheetfile" "routage.kicad_sch")
@@ -219,7 +219,7 @@
 
   (footprint "Heatsink:Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm" (layer "F.Cu")
     (tedit 5A1FFA20) (tstamp 12dab35c-7255-4eb0-ae05-ec0d83ce4b43)
-    (at 110.744 92.456)
+    (at 113.792 93.218)
     (descr "Heatsink, 35mm x 13mm, 2x Fixation 2,5mm Drill, Soldering, Fischer SK104-STC-STIC,")
     (tags "Heatsink fischer TO-220")
     (property "Sheetfile" "routage.kicad_sch")
@@ -349,7 +349,7 @@
 
   (footprint "Package_TO_SOT_THT:TO-126-3_Vertical" (layer "F.Cu")
     (tedit 5AC8BA0D) (tstamp 223301df-96f9-4292-9f40-33cafa8590fa)
-    (at 176.53 103.499)
+    (at 169.418 105.023)
     (descr "TO-126-3, Vertical, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf")
     (tags "TO-126-3 Vertical RM 2.54mm")
     (property "Sheetfile" "routage.kicad_sch")
@@ -401,7 +401,7 @@
 
   (footprint "Package_TO_SOT_THT:TO-18-3" (layer "F.Cu")
     (tedit 5A02FF81) (tstamp 27eb8638-b629-4364-947b-ff83ad1ea6d7)
-    (at 114.3 115.57)
+    (at 111.182724 112.198724)
     (descr "TO-18-3")
     (tags "TO-18-3")
     (property "Sheetfile" "routage.kicad_sch")
@@ -448,7 +448,7 @@
 
   (footprint "Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" (layer "F.Cu")
     (tedit 5AE50EF0) (tstamp 3713aabc-2a0b-432d-90f1-49910c3ce6fe)
-    (at 177.292 120.102 90)
+    (at 177.292 120.864 90)
     (descr "C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*3.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf")
     (tags "C Rect series Radial pin pitch 5.00mm  length 7.2mm width 3.5mm Capacitor")
     (property "Sheetfile" "routage.kicad_sch")
@@ -492,7 +492,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp 3d3a2106-b26a-4900-9b48-45d3e22277d9)
-    (at 95.504 121.158 -90)
+    (at 93.472 116.332 -90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "routage.kicad_sch")
@@ -587,7 +587,7 @@
 
   (footprint "Package_TO_SOT_THT:TO-18-3" (layer "F.Cu")
     (tedit 5A02FF81) (tstamp 4749aea5-99cc-4100-ae34-2108e9b03683)
-    (at 104.14 129.54)
+    (at 102.546724 133.280724)
     (descr "TO-18-3")
     (tags "TO-18-3")
     (property "Sheetfile" "routage.kicad_sch")
@@ -682,7 +682,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp 56efc614-9d81-45b2-8c1d-af6e813ae211)
-    (at 141.732 122.428)
+    (at 143.256 119.888)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "routage.kicad_sch")
@@ -730,7 +730,7 @@
 
   (footprint "Package_TO_SOT_THT:TO-220-3_Vertical" (layer "F.Cu")
     (tedit 5AC8BA0D) (tstamp 58b3fe65-90f4-45d2-948d-69865e39a640)
-    (at 103.632 104.648 180)
+    (at 112.776 101.417 180)
     (descr "TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf")
     (tags "TO-220-3 Vertical RM 2.54mm")
     (property "Sheetfile" "routage.kicad_sch")
@@ -782,7 +782,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp 5a63104a-5f49-440a-a611-7af9bff369e0)
-    (at 159.766 130.556 -90)
+    (at 160.274 130.302 -90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "routage.kicad_sch")
@@ -830,7 +830,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp 5c7f9922-314e-4d15-81f4-19e606d942c1)
-    (at 124.206 105.156)
+    (at 123.444 72.136)
     (descr "Resistor, Axial_DIN0516 series, Axial, Horizontal, pin pitch=20.32mm, 2W, length*diameter=15.5*5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0516 series Axial Horizontal pin pitch 20.32mm 2W length 15.5mm diameter 5mm")
     (property "Sheetfile" "routage.kicad_sch")
@@ -878,7 +878,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp 5da63fcc-2c35-485b-9400-060f1e0e1ac7)
-    (at 95.25 114.3)
+    (at 93.472 109.728)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "routage.kicad_sch")
@@ -926,7 +926,7 @@
 
   (footprint "Package_TO_SOT_THT:TO-220-3_Vertical" (layer "F.Cu")
     (tedit 5AC8BA0D) (tstamp 5efe2f87-be9f-4944-b6f2-ab904614e363)
-    (at 181.864 91.948 180)
+    (at 183.388 96.591 180)
     (descr "TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf")
     (tags "TO-220-3 Vertical RM 2.54mm")
     (property "Sheetfile" "routage.kicad_sch")
@@ -1026,7 +1026,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 690a5eb0-50b8-4cd6-8f0c-73f22e661e80)
-    (at 136.144 126.746)
+    (at 146.558 129.54 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "routage.kicad_sch")
@@ -1075,9 +1075,9 @@
     (fp_line (start 3.58 -1) (end 3.58 1) (layer "F.Fab") (width 0.1) (tstamp c5fcbf5c-9d96-4464-b8b9-aaaf27d96168))
     (fp_line (start 3.78 -1) (end 3.78 1) (layer "F.Fab") (width 0.1) (tstamp f09dbd7b-92ef-42d4-ab47-4c787cbeb4b7))
     (fp_line (start 3.08 -1) (end 3.08 1) (layer "F.Fab") (width 0.1) (tstamp fa887e70-2130-43e3-9eab-7e5b649bcf97))
-    (pad "1" thru_hole rect (at 0 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
+    (pad "1" thru_hole rect (at 0 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 7 "+12V") (pinfunction "K") (pintype "passive") (tstamp 15aa3b0d-a08d-47c6-aa38-810c1e141c94))
-    (pad "2" thru_hole oval (at 10.16 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
+    (pad "2" thru_hole oval (at 10.16 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 9 "Net-(D1-Pad2)") (pinfunction "A") (pintype "passive") (tstamp c2fb75ef-2687-44bd-b5d1-58093a2ed86c))
     (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P10.16mm_Horizontal.wrl"
       (offset (xyz 0 0 0))
@@ -1088,7 +1088,7 @@
 
   (footprint "Package_TO_SOT_THT:TO-18-3" (layer "F.Cu")
     (tedit 5A02FF81) (tstamp 6fb89888-678d-48a7-8d3d-b86929ab89cf)
-    (at 155.886724 119.564724)
+    (at 158.172724 114.738724)
     (descr "TO-18-3")
     (tags "TO-18-3")
     (property "Sheetfile" "routage.kicad_sch")
@@ -1135,7 +1135,7 @@
 
   (footprint "Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" (layer "F.Cu")
     (tedit 5AE50EF0) (tstamp 70d0f8ba-2e38-4055-a329-908e21faf791)
-    (at 104.648 76.748 -90)
+    (at 95.25 82.256 90)
     (descr "C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*3.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf")
     (tags "C Rect series Radial pin pitch 5.00mm  length 7.2mm width 3.5mm Capacitor")
     (property "Sheetfile" "routage.kicad_sch")
@@ -1166,9 +1166,9 @@
     (fp_line (start 6.1 -1.75) (end -1.1 -1.75) (layer "F.Fab") (width 0.1) (tstamp b7f14af0-1466-496f-9c89-91ec2add13be))
     (fp_line (start -1.1 1.75) (end 6.1 1.75) (layer "F.Fab") (width 0.1) (tstamp c220246a-b192-400c-b6b0-7a7698605f3b))
     (fp_line (start -1.1 -1.75) (end -1.1 1.75) (layer "F.Fab") (width 0.1) (tstamp fc93760d-9415-4ab2-8d70-efe3f9bc3d73))
-    (pad "1" thru_hole circle (at 0 0 270) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
+    (pad "1" thru_hole circle (at 0 0 90) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 7 "+12V") (pintype "passive") (tstamp 97366498-0dda-4ea1-b415-2ac530c4f15f))
-    (pad "2" thru_hole circle (at 5 0 270) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
+    (pad "2" thru_hole circle (at 5 0 90) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 6 "GND") (pintype "passive") (tstamp 77af65c9-4227-467c-8c99-271343ac2e27))
     (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2.wrl"
       (offset (xyz 0 0 0))
@@ -1823,7 +1823,7 @@
 
   (footprint "Package_TO_SOT_THT:TO-126-3_Vertical" (layer "F.Cu")
     (tedit 5AC8BA0D) (tstamp 7d8765d6-89d0-479d-8fed-51189ee5457b)
-    (at 112.014 109.341)
+    (at 120.65 105.023)
     (descr "TO-126-3, Vertical, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf")
     (tags "TO-126-3 Vertical RM 2.54mm")
     (property "Sheetfile" "routage.kicad_sch")
@@ -1953,7 +1953,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp 83e7a6c1-123e-4135-b718-2a1a691f0b5a)
-    (at 146.05 96.012)
+    (at 140.97 99.314)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "routage.kicad_sch")
@@ -2049,7 +2049,7 @@
 
   (footprint "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" (layer "F.Cu")
     (tedit 5AE50EF1) (tstamp 95c51707-b7e6-489b-8de1-a863a9741116)
-    (at 191.008 62.446041 -90)
+    (at 192.024 71.336041 -90)
     (descr "CP, Radial series, Radial, pin pitch=5.00mm, , diameter=12.5mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 5.00mm  diameter 12.5mm Electrolytic Capacitor")
     (property "Sheetfile" "routage.kicad_sch")
@@ -2367,7 +2367,7 @@
 
   (footprint "Heatsink:Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm" (layer "F.Cu")
     (tedit 5A1FFA20) (tstamp 9f588139-6aa6-46d4-a3ea-3572f71c8413)
-    (at 179.832 80.264)
+    (at 181.356 88.138)
     (descr "Heatsink, 35mm x 13mm, 2x Fixation 2,5mm Drill, Soldering, Fischer SK104-STC-STIC,")
     (tags "Heatsink fischer TO-220")
     (property "Sheetfile" "routage.kicad_sch")
@@ -2658,7 +2658,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp beece847-0baf-4824-8dc0-47aeee428184)
-    (at 186.944 132.334)
+    (at 185.674 132.08)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "routage.kicad_sch")
@@ -2706,7 +2706,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp c0c5f17d-3aac-474d-bb3f-2ca22c2fb264)
-    (at 194.056 106.426 90)
+    (at 194.818 107.442 90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "routage.kicad_sch")
@@ -2754,7 +2754,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp c68bade7-201a-4403-88be-bf5266f4b1d2)
-    (at 136.398 111.506 -90)
+    (at 140.208 106.426 -90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "routage.kicad_sch")
@@ -2802,7 +2802,7 @@
 
   (footprint "Package_TO_SOT_THT:TO-18-3" (layer "F.Cu")
     (tedit 5A02FF81) (tstamp caf1f6ee-cb26-4337-b88a-4f0e8b7c024c)
-    (at 179.139276 108.388724 -90)
+    (at 183.457276 109.150724 -90)
     (descr "TO-18-3")
     (tags "TO-18-3")
     (property "Sheetfile" "routage.kicad_sch")
@@ -2849,7 +2849,7 @@
 
   (footprint "CmpAmpliAudioTR:Relais_112LMH2" (layer "F.Cu")
     (tedit 60644E1C) (tstamp d2f6f9cf-cacb-4bfc-9e76-0d4b8343c38d)
-    (at 136.8625 44.6445 -90)
+    (at 132.2905 54.2965 -90)
     (property "Sheetfile" "routage.kicad_sch")
     (property "Sheetname" "")
     (path "/cd4c390f-36a9-4671-86ec-9a7fef52b7dc")
@@ -3014,7 +3014,7 @@
 
   (footprint "CmpAmpliAudioTR:Potentiometer_Bourns_3296W_Vertical" (layer "F.Cu")
     (tedit 60644AAF) (tstamp e058e989-0315-4f5f-8c45-6a27e2394a03)
-    (at 132.588 125.222)
+    (at 133.604 124.46)
     (descr "Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf")
     (tags "Potentiometer vertical Bourns 3296W")
     (property "Sheetfile" "routage.kicad_sch")
@@ -3063,7 +3063,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp e1e4365f-0988-4784-879f-fe2dc601b544)
-    (at 179.324 123.19)
+    (at 182.372 123.952)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "routage.kicad_sch")
@@ -3111,7 +3111,7 @@
 
   (footprint "CmpAmpliAudioTR:Potentiometer_Bourns_3296W_Vertical" (layer "F.Cu")
     (tedit 60644AAF) (tstamp e31ead6c-7c4b-4bd0-acd7-cb1d2d4dbb0a)
-    (at 126.228 114.808 180)
+    (at 129.032 111.76 180)
     (descr "Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf")
     (tags "Potentiometer vertical Bourns 3296W")
     (property "Sheetfile" "routage.kicad_sch")
@@ -3160,22 +3160,22 @@
 
   (footprint "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" (layer "F.Cu")
     (tedit 5AE50EF1) (tstamp e780283f-4459-4cd9-a200-0033bd00a66d)
-    (at 122.682 76.12 90)
+    (at 112.95 78.994 180)
     (descr "CP, Radial series, Radial, pin pitch=5.00mm, , diameter=12.5mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 5.00mm  diameter 12.5mm Electrolytic Capacitor")
     (property "Sheetfile" "routage.kicad_sch")
     (property "Sheetname" "")
     (path "/68a1b7de-c472-473e-909a-7beeb2c7f3ea")
     (attr through_hole)
-    (fp_text reference "C8" (at 2.5 -7.5 90) (layer "F.SilkS")
+    (fp_text reference "C8" (at 2.5 -7.5) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 749b0d87-f135-4784-a3c8-ce268a754e99)
     )
-    (fp_text value "470u" (at 2.5 7.5 90) (layer "F.Fab")
+    (fp_text value "470u" (at 2.5 7.5) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7a857962-703b-4723-a36e-ab4c22e6b00f)
     )
-    (fp_text user "${REFERENCE}" (at 2.5 0 90) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 2.5 0) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bdb7c5dc-ab51-4fbd-84f5-6bf3ffb807ce)
     )
@@ -3418,9 +3418,9 @@
     (fp_line (start -2.866489 -2.7375) (end -1.616489 -2.7375) (layer "F.Fab") (width 0.1) (tstamp 84e9e328-cd4e-4206-8f72-a15f688d2cda))
     (fp_line (start -2.241489 -3.3625) (end -2.241489 -2.1125) (layer "F.Fab") (width 0.1) (tstamp a0fdd96c-6ae2-4026-9af9-942cdbdeda7c))
     (fp_circle (center 2.5 0) (end 8.75 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp a626357f-1928-4653-8959-1da329c321bd))
-    (pad "1" thru_hole rect (at 0 0 90) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask)
+    (pad "1" thru_hole rect (at 0 0 180) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask)
       (net 7 "+12V") (pintype "passive") (tstamp 2f5a3778-5a35-4580-9b9b-355263d75a8b))
-    (pad "2" thru_hole circle (at 5 0 90) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask)
+    (pad "2" thru_hole circle (at 5 0 180) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask)
       (net 6 "GND") (pintype "passive") (tstamp f66a1e0a-4448-4671-afc6-a16aabb951e2))
     (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D12.5mm_P5.00mm.wrl"
       (offset (xyz 0 0 0))
@@ -3522,7 +3522,7 @@
 
   (footprint "Package_TO_SOT_THT:TO-126-3_Vertical" (layer "F.Cu")
     (tedit 5AC8BA0D) (tstamp ebfb53dd-db46-4fdb-a592-8653c136ea69)
-    (at 122.428 121.279)
+    (at 118.872 118.739)
     (descr "TO-126-3, Vertical, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf")
     (tags "TO-126-3 Vertical RM 2.54mm")
     (property "Sheetfile" "routage.kicad_sch")
@@ -3574,7 +3574,7 @@
 
   (footprint "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm" (layer "F.Cu")
     (tedit 5AE50EF0) (tstamp f1f10ee8-b063-4843-908f-ebc3c0886d26)
-    (at 101.854 62.113349 -90)
+    (at 96.52 55.763349 -90)
     (descr "CP, Radial series, Radial, pin pitch=5.00mm, , diameter=8mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 5.00mm  diameter 8mm Electrolytic Capacitor")
     (property "Sheetfile" "routage.kicad_sch")
@@ -3768,7 +3768,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp f8bb1dc1-5e13-4596-8302-357ff7e49e26)
-    (at 195.072 111.506 -90)
+    (at 196.85 112.014 -90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "routage.kicad_sch")
@@ -3816,7 +3816,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp fcbd75c3-4fb3-4d23-949d-34c4d3a6ffbc)
-    (at 112.014 126.238)
+    (at 100.076 121.412)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "routage.kicad_sch")
